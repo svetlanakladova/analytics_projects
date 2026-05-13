@@ -1,2 +1,1 @@
 # analytical_projects
-test
