@@ -8,6 +8,14 @@ The objective of the analysis is to identify the reasons behind revenue stagnati
 
 The study focuses on user acquisition efficiency, engagement, monetization, and marketing profitability during the first 28 days after acquisition.
 
+**Metrics Tree**
+
+Below is the metrics tree used in this analysis to structure hypotheses and investigate revenue stagnation.
+
+<img width="1788" height="880" alt="metrics_tree" src="https://github.com/user-attachments/assets/ae682f8d-9839-4b94-a61b-153b40a82ea9" />
+
+
+
 **Key areas of analysis:**
 
 - Cohort and retention analysis
