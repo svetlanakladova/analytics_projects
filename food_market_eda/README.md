@@ -21,6 +21,30 @@ To analyze the Moscow restaurant market in order to identify:
 
 ---
 
+### Dataset Description
+
+Two datasets were used:
+
+The dataset `rest_info.csv` сontains information about restaurants:
+
+- `name` — restaurant name  
+- `address` — location  
+- `district` — administrative district of Moscow  
+- `category` — restaurant type (cafe, restaurant, etc.)  
+- `hours` — working hours  
+- `rating` — user rating (1–5 scale)  
+- `chain` — `1` if chain restaurant, `0` otherwise  
+- `seats` — number of seats  
+
+The dataset `rest_price.csv` сontains pricing information:
+
+- `price` — price category (low, medium, high, etc.)  
+- `avg_bill` — textual description of average bill range  
+- `middle_avg_bill` — numeric average bill (processed)  
+- `middle_coffee_cup` — coffee cup price (derived field) 
+
+---
+
 ### Contents
 
 **1. Data Loading and Initial Exploration**
@@ -49,6 +73,7 @@ To analyze the Moscow restaurant market in order to identify:
 - Key Findings
 - Data-Based Recommendations
 
+---
 
 ### Key Insights
 
@@ -82,32 +107,6 @@ To analyze the Moscow restaurant market in order to identify:
 **5. Chain strategy**
 - `Chains` are popular in cafes and restaurants
 - But quality control is important — `chain` status does not guarantee high ratings
-
-
----
-
-### Dataset Description
-
-Two datasets were used:
-
-The dataset `rest_info.csv` сontains information about restaurants:
-
-- `name` — restaurant name  
-- `address` — location  
-- `district` — administrative district of Moscow  
-- `category` — restaurant type (cafe, restaurant, etc.)  
-- `hours` — working hours  
-- `rating` — user rating (1–5 scale)  
-- `chain` — `1` if chain restaurant, `0` otherwise  
-- `seats` — number of seats  
-
-The dataset `rest_price.csv` сontains pricing information:
-
-- `price` — price category (low, medium, high, etc.)  
-- `avg_bill` — textual description of average bill range  
-- `middle_avg_bill` — numeric average bill (processed)  
-- `middle_coffee_cup` — coffee cup price (derived field) 
-
 
 ---
 
