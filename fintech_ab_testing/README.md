@@ -30,6 +30,30 @@ Does educational onboarding help users become more active and valuable, without 
 
 ---
 
+### Dataset Description
+
+The project uses two datasets:
+`Historical Dataset` — contains user activity data for new users acquired between April 1 and June 1, 2025.
+`A/B Test Dataset` — contains experiment data for users registered between June 2 and June 15, 2025.
+
+**Main Dataset Features:**
+- `user_id` — unique user identifier
+- `country_code` — user country (BR, MX, AR, CO)
+- `platform` — mobile or web
+- `first_ts` — timestamp of the user's first appearance in the system
+- `first_dt` — date of the user's first appearance (without time)
+- `event_ts` — event timestamp
+- `event_name` — user action inside the platform
+- `amount` — deposit amount
+- `asset` — purchased financial asset
+- `risk_level` — asset risk category (low / medium / high)
+  
+The `/datasets/pa_sollmafin_abt.csv` dataset also includes two additional fields:
+- `ab_test` —  A/B experiment name
+- `group` — A/B experiment group
+
+---
+
 ### Contents
 
 **1. Historical Data Preparation**
@@ -52,30 +76,6 @@ Does educational onboarding help users become more active and valuable, without 
 
 **5. Conclusions**
 - Final Conclusions
-
----
-
-### Dataset Description
-
-The project uses two datasets:
-`Historical Dataset` — contains user activity data for new users acquired between April 1 and June 1, 2025.
-`A/B Test Dataset` — contains experiment data for users registered between June 2 and June 15, 2025.
-
-**Main Dataset Features:**
-- `user_id` — unique user identifier
-- `country_code` — user country (BR, MX, AR, CO)
-- `platform` — mobile or web
-- `first_ts` — timestamp of the user's first appearance in the system
-- `first_dt` — date of the user's first appearance (without time)
-- `event_ts` — event timestamp
-- `event_name` — user action inside the platform
-- `amount` — deposit amount
-- `asset` — purchased financial asset
-- `risk_level` — asset risk category (low / medium / high)
-  
-The `/datasets/pa_sollmafin_abt.csv` dataset also includes two additional fields:
-- `ab_test` —  A/B experiment name
-- `group` — A/B experiment group
 
 ---
 
