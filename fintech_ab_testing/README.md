@@ -33,26 +33,27 @@ Does educational onboarding help users become more active and valuable, without 
 ### Contents
 
 **1. Historical Data Preparation**
-- [Data Loading and Preprocessing](#data-loading-and-preprocessing)
-
+- Data Loading and Preprocessing
+  
 **2. Exploratory Data Analysis**
-- [New User Analysis](#new-user-analysis)
-- [Event Funnel Analysis](#event-funnel-analysis)
-- [Impact of Asset Risk Level on Second Deposit Conversion](#impact-of-asset-risk-level-on-second-deposit-conversion)
-- [Historical Monetization Metric Analysis](#historical-monetization-metric-analysis)
+- New User Analysis
+- Event Funnel Analysis
+- Impact of Asset Risk Level on Second Deposit Conversion
+- Historical Monetization Metric Analysis
 
 **3. A/B Test Analysis**
-- [Experiment Audience Analysis](#experiment-audience-analysis)
-- [Event Funnel Comparison](#event-funnel-comparison)
-- [Impact of the New Feature on Second Deposit Conversion by Asset Risk Level](#impact-of-the-new-feature-on-second-deposit-conversion-by-asset-risk-level)
-- [A/B Test Metrics Analysis](#ab-test-metrics-analysis)
+- Experiment Audience Analysis
+- Event Funnel Comparison
+- Impact of the New Feature on Second Deposit Conversion by Asset Risk Level
+- A/B Test Metrics Analysis
 
 **4. Paying User Deposit Analysis**
-- [Changes in Deposit Amounts per Paying User](#changes-in-deposit-amounts-per-paying-user)
+- Changes in Deposit Amounts per Paying User
 
 **5. Conclusions**
-- [Final Conclusions](#final-conclusions)
+- Final Conclusions
 
+---
 
 ### Final Summary
 
