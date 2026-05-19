@@ -1,7 +1,5 @@
 # Data Analytics Portfolio
 
-## About
-
 This repository contains my data analytics and product analytics projects.
 
 The projects focus on:
