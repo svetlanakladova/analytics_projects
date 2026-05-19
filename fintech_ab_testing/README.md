@@ -55,25 +55,6 @@ Does educational onboarding help users become more active and valuable, without 
 
 ---
 
-### Final Summary
-
-The new onboarding does not change the main conversion rate, but it improves user quality after the first deposit.
-
-**Main results:**
-- First deposit: no negative impact
-- Second deposit: clear improvement
-- Paying users: higher deposits
-- Low-intent users: slightly lower activity
-
-**Recommendation:**
-
-Use a mixed onboarding strategy:
-- Keep educational onboarding for users interested in risky assets
-- Use simpler onboarding for beginners
-- Continue tracking long-term user behavior
-
----
-
 ### Dataset Description
 
 The project uses two datasets:
@@ -95,6 +76,25 @@ The project uses two datasets:
 The `/datasets/pa_sollmafin_abt.csv` dataset also includes two additional fields:
 - `ab_test` —  A/B experiment name
 - `group` — A/B experiment group
+
+---
+
+### Final Summary
+
+The new onboarding does not change the main conversion rate, but it improves user quality after the first deposit.
+
+**Main results:**
+- First deposit: no negative impact
+- Second deposit: clear improvement
+- Paying users: higher deposits
+- Low-intent users: slightly lower activity
+
+**Recommendation:**
+
+Use a mixed onboarding strategy:
+- Keep educational onboarding for users interested in risky assets
+- Use simpler onboarding for beginners
+- Continue tracking long-term user behavior
 
 ---
 
