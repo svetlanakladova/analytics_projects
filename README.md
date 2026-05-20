@@ -22,6 +22,7 @@ The projects focus on:
 | 3 | [**Fintech A/B Test & Product Analytics**](./fintech_ab_testing) | Product analytics and A/B test analysis for a fintech investment app. Evaluated whether educational onboarding improves long-term user quality and monetization without reducing conversion. | A/B Testing, Product Analytics, Funnel Analysis, Statistical Analysis | Python, Pandas, NumPy, SciPy, Statsmodels |
 | 4 | [**Moscow Food Market Analysis**](./food_market_eda) | Exploratory data analysis of the Moscow restaurant market using Yandex Maps data. Studied competition, pricing, ratings, restaurant categories, and district-level differences to provide business recommendations for investors. | EDA, Market Research, Business Analytics, Data Visualization | Python, Pandas, Matplotlib, Seaborn |
 | 5 | [**Taxi Data Pipeline**](./taxi_data_pipeline) | Automated ETL pipeline for processing Yandex Taxi trip data using PySpark, Airflow, and ClickHouse. Built a workflow for daily aggregation, orchestration, and loading analytical tables for reporting. | Data Engineering, ETL Pipelines, Automation, Big Data | PySpark, Airflow, ClickHouse |
+| 6 | [**TED Conference Analytics Dashboard**](./ted_conference_dashboard) | Built an interactive dashboard for TED conference analysis using SQL and Yandex DataLens. Analyzed conference structure, speaker engagement, popular topics, audience reactions, and talk performance to help plan TED-style events. | Business Analytics, Dashboarding, SQL Analytics, Data Visualization | SQL, Yandex DataLens |
 
 ---
 
