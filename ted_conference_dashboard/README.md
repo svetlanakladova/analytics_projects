@@ -1,6 +1,8 @@
 # TED Conference Analytics Dashboard
 
-## Project Overview
+### [Presentation](https://datalens.yandex/p8nc6j6j525yb)
+
+### Project Overview
 
 This project focuses on building an analytical dashboard for TED conference data.
 
@@ -61,6 +63,8 @@ The dashboard was built to support business decisions related to:
 ### Dataset Description
 
 The project uses three datasets:
+
+<img width="2880" height="1324" alt="Image (1)" src="https://github.com/user-attachments/assets/1cd2f60e-c9d8-45be-8b0b-68996e1648f3" />
 
 `events` — conference information:
 - `conf_id` — conference ID
