@@ -1,4 +1,4 @@
-## SollmaFin A/B Test & Product Analytics
+## Fintech A/B Test & Product Analytics
 
 ### Project Overview
 
