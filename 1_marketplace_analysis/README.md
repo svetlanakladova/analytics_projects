@@ -97,11 +97,14 @@ The project uses marketplace datasets:
 
 ### Project Structure
 **1. Data loading and preprocessing**
+
 **2. Key metrics overview**
 - Monetization efficiency
 - User activity and engagement
 - Unit economics and marketing analysis
+  
 **3. Product performance and key risks**
+  
 **4. Insights, growth opportunities and user segmentation**
 - Acquisition channel analysis
 - User segmentation by type
@@ -112,6 +115,7 @@ The project uses marketplace datasets:
 - Funnel analysis
 - Product category analysis
 - Key analytical insights
+  
 **5. Experiment preparation and results analysis**
 - Experiment audience analysis
 - Event funnel comparison
